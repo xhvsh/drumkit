@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: #363636;
+  background: #222;
 }
 .container {
   display: flex;
@@ -29,11 +29,11 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: #696969;
+  background: #333;
   border-radius: 20px;
   transition: transform 0.07s ease;
   padding: 10px;
-  color: #fff;
+  color: #ddd;
   box-shadow: 0 0 20px #111;
 }
 .playing {
@@ -43,5 +43,5 @@ body {
   font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #d2d2d2;
+  color: #aaa;
 }
